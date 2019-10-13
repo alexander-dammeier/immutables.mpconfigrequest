@@ -17,6 +17,3 @@ Run following command in project root folder to start the server:
 ```
 mvn payara-micro:stop
 ```
-
-
-https://stackoverflow.com/questions/31458080/gson-boolean-conversion-always-false
